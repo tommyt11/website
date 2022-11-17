@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<style>
+body {
+  background-color: hsla(218, 100%, 73%, 0.4);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+</style>
+
+<body>
+<ul>
+  <li><a href="file:///C:/Users/ttasker674/Downloads/Website%20page%201.html">Home</a></li>
+  <li><a href="file:///C:/Users/ttasker674/Downloads/Website%20page%203.html">Hockey</a></li>
+  <li><a href="file:///C:/Users/ttasker674/Downloads/Website%20page%205.html">Fishing</a></li>
+</ul>
+<h1> My Favorite Hobby: Hockey</h1>
+<p> My favorite thing to do is watch or play sports. My whole life my favorite sport to both watch and play has been ice hockey. I started playing hockey when I was two and a half years old 
+and I continue to play still today. I do not play competitively anymore, but I still enjoy playing casually and watching it as well. </p>
+<br>
+<p> I often watch college hockey. My favorite team is Notre Dame. I have been a Notre Dame fan my whole life and watch their football and hockey games all the time. 
+I really enjoy watching college hockey, but I much prefer watching the National Hockey League, or NHL for short. The NHL was founded in 1917 and consists of 32 teams. 
+My favorite NHL team is the Boston Bruins. </p>
+<br>
+<img src="https://logos-world.net/wp-content/uploads/2020/05/Boston-Bruins-symbol.jpg"  width="200"
+ height="171" alt="Bruins Logo">
+<br>
+<p> The Bruins were one of the Original Six teams that existed in 1917 when the league was founded. Being an Original Six team means there is lots of tradition and a history of successful teams and 
+passionate fans. The last time the Bruins won the Stanley Cup was in 2011, and I went to the championship parade in Boston to celebrate. The Bruins are currently in first place in the NHL, but it is 
+very early in the season. Hopefully they keep up the solid play and are able to win a Stanley Cup this year. </p>
+
+
+
+</body>
+</html>
