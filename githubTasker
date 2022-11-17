@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<style>
+body {
+  background-color: hsla(218, 100%, 73%, 0.4);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+</style>
+
+<body>
+<ul>
+  <li><a href="file:///C:/Users/ttasker674/Downloads/Website%20page%201.html">Home</a></li>
+  <li><a href="file:///C:/Users/ttasker674/Downloads/Website%20page%203.html">Hockey</a></li>
+  <li><a href="file:///C:/Users/ttasker674/Downloads/Website%20page%205.html">Fishing</a></li>
+</ul>
+<h1> A Website about Tommy Tasker </h1>
+<p> Hello! My name is Tommy Tasker. I am a 20 year old college student. One of the classes I am enrolled in this semester is called Digital Literacy. In this class
+I learn to be more technologically savvy. One element of that is learning how to code and create websites using HTML. I have some experience with this. In high school 
+I took a class called Web Page Design in which I worked with HTML. I also took AP Computer Science, so I have some experience with a few other languages. Although I have used these 
+languages in the past, it is still a little challenging and I am quite rusty, so this is my attempt at creating a website for myself. </p>
+<br>
+<p> I have learned how to do many new things with computers, and specifically with HTML. I am now able to create a running website that has images, YouTube videos, different fonts and colors, and even navigation bars. 
+I know my code is pretty elementary, and I still have to look plenty of things up, but I am proud of how much I remember how to do. This is my first time using GitHub. </p>
+<br>
+<p> This website consists of three pages, each providing general insight about who I am, or things I am interested in. You can navigate through the pages using the navigation bar at the top of the page. I hope you 
+find this website to be helpful and informative, and I hope you learn something about me along the way. </p>
+<br>
+<b> Enjoy! </b>
+
+
+</body>
+</html>
