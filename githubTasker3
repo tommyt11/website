@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<style>
+body {
+  background-color: hsla(218, 100%, 73%, 0.4);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+</style>
+
+<body>
+<ul>
+  <li><a href="file:///C:/Users/ttasker674/Downloads/Website%20page%201.html">Home</a></li>
+  <li><a href="file:///C:/Users/ttasker674/Downloads/Website%20page%203.html">Hockey</a></li>
+  <li><a href="file:///C:/Users/ttasker674/Downloads/Website%20page%205.html">Fishing</a></li>
+</ul>
+<h1 style="color:maroon;"> My Experiences with Fishing </h1>
+<p style="color:maroon;"> Another one of my hobbies is fishing. I have been fishing since I was very young. My dad taught me how to fish, the same way his dad taught him, and so on and so forth. I would go to the pond with him and just 
+watch him cast and reel and every once in a while he would let me hold the rod or reel in the fish. When I got a little older it became more involved and I even had my owen rod. As the years went on I got better and became 
+more interested in fishing.  </p>
+<br>
+<p style="color:maroon;"> I first learned how to fish the normal way. When I was ten years old, my dad started teaching me how to fly fish. Fly fishing is a different type of fishing where you wade into the water and cast a lightweight 
+fly instead of a lure. Instead of reeling in the line, you pull on it. It takes a lot more skill and rythm to do this. It took me a long time to get the hang of, but I am pretty good at it now.  </p>
+<br>
+<img src="https://tfs-spaces.sfo2.digitaloceanspaces.com/theflyshop/uploads/2017/10/Species_RainbowTrout_Main.jpg"  width="200"
+ height="171" alt="Rainbow Trout">
+ <br>
+<p style="color:maroon;"> I don't neccesarily prefer one over the other. I think I find myself fly fishing more than I am fishing regularly. There is something about the simplicity and rythm of fly fishing that is much more appealing to me. 
+I have also tried deep sea fishing a few times, but I do not find it as fun or engaging as other types of fishing. I try to fish once a week at least in the summer, sometimes closer to once a day.  </p>
+<br>
+
+
+
+</body>
+</html>
